@@ -1,0 +1,12 @@
+.mainHeading {
+    font-size: 4rem;
+    background: linear-gradient(180deg, blue, cyan);
+    webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
+::selection {
+    background: purple;
+    color: violet;
+}
